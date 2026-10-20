@@ -1,3 +1,3 @@
 # SoftCar
 SoftCar es un proyecto de emprendimiento automotriz que ofrece servicios de aseguramiento y compra y venta de vehículos. Su objetivo es brindar confianza, seguridad y facilidad a los usuarios mediante herramientas digitales, promoviendo decisiones responsables y generando oportunidades de negocio en el sector automotor.
-#![Uploading c6587933-bc47-4095-ad4a-0bc6619d5fee.jpg…]()
+
